@@ -1,0 +1,5 @@
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/CMakeFiles/ALL_BUILD.dir
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/CMakeFiles/ZERO_CHECK.dir
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/src/CMakeFiles/logger.dir
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/test/CMakeFiles/test_logger.dir
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/test/CMakeFiles/LoggerTest.dir

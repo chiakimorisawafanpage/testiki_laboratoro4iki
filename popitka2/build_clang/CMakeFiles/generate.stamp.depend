@@ -2,6 +2,7 @@
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDependentOption.cmake
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake
@@ -25,7 +26,8 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtens
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
 C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
 C:/Users/polik/source/repos/popitka2/popitka2/CMakeLists.txt
-C:/Users/polik/source/repos/popitka2/popitka2/build/CMakeFiles/3.31.6-msvc6/CMakeCCompiler.cmake
-C:/Users/polik/source/repos/popitka2/popitka2/build/CMakeFiles/3.31.6-msvc6/CMakeCXXCompiler.cmake
-C:/Users/polik/source/repos/popitka2/popitka2/build/CMakeFiles/3.31.6-msvc6/CMakeRCCompiler.cmake
-C:/Users/polik/source/repos/popitka2/popitka2/build/CMakeFiles/3.31.6-msvc6/CMakeSystem.cmake
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/CMakeFiles/3.31.6-msvc6/CMakeCCompiler.cmake
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/CMakeFiles/3.31.6-msvc6/CMakeCXXCompiler.cmake
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/CMakeFiles/3.31.6-msvc6/CMakeRCCompiler.cmake
+C:/Users/polik/source/repos/popitka2/popitka2/build_clang/CMakeFiles/3.31.6-msvc6/CMakeSystem.cmake
+C:/Users/polik/vcpkg/scripts/buildsystems/vcpkg.cmake
